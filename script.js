@@ -1,11 +1,11 @@
 const rock = document.createElement("button");
-rock.textContent = "Rock";
+rock.textContent = "✊";
 
 const paper = document.createElement("button");
-paper.textContent = "Paper";
+paper.textContent = "✋";
 
 const scissors = document.createElement("button");
-scissors.textContent = "Scissors";
+scissors.textContent = "✌️";
 
 const resetButton = document.createElement("button");
 resetButton.textContent = "Reset";
